@@ -1,6 +1,6 @@
 ﻿using PropertyChanged;
 
-namespace PropertyChangedBug
+namespace PropertyChangedBug.Problem
 {
     [AddINotifyPropertyChangedInterface]
     public class BaseClass
